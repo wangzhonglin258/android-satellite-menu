@@ -1,4 +1,4 @@
-#Satellite Menu
+弹出菜单 #Satellite Menu
 
 'Path' has a very attractive menu sitting on the left bottom corner of the screen. Satellite Menu is the open version of this menu. 
 
